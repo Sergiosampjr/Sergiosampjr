@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sérgio Sampaio.
 - 👀 I’m interested in make a better world.
-- 🌱 I'm currently learning the python programming language.
-- 💞I am open to all possibilities!
+- 🌱 I'm currently learning the python programming language.  
 - 📫 sergio.sampaio@aluno.uece.br
 
 <!---
